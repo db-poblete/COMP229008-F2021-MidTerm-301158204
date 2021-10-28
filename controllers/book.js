@@ -48,7 +48,7 @@ module.exports.displayAddPage = (req, res, next) => {
     let newBook = Book();
     
     res.render('book/add_edit', {
-        title: 'Add Book',
+        title: 'Add a new Book',
         book: newBook
     });
 
