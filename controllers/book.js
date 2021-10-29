@@ -1,3 +1,9 @@
+// book.js
+// Diego Poblete
+// 301158204
+// Favourite Book List
+
+
 // create a reference to the model
 const { render } = require('ejs');
 let Book = require('../models/book');

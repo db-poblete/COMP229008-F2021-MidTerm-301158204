@@ -1,6 +1,6 @@
 {
-  "name": "week03-009",
-  "version": "0.0.0",
+  "name": "midterm301158204",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "start": "node ./server.js"
@@ -17,5 +17,18 @@
     "mongoose": "^6.0.8",
     "morgan": "~1.9.1",
     "nodemon": "^2.0.14"
-  }
+  },
+  "description": "Favourite Book List",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpoblete-centennial/COMP229008-F2021-MidTerm-301158204.git"
+  },
+  "author": "Diego Poblete",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dpoblete-centennial/COMP229008-F2021-MidTerm-301158204/issues"
+  },
+  "homepage": "https://github.com/dpoblete-centennial/COMP229008-F2021-MidTerm-301158204#readme"
 }
